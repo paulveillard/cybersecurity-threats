@@ -4,4 +4,4 @@ An ongoing & curated collection of awesome software best practices and technique
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ## `What is Threat`
-[Threat](https://www.ibm.com/cloud/learn/devsecops)—short for *development, security, and operations*—automates the integration of security at every phase of the software development lifecycle, from initial design through integration, testing, deployment, and software delivery.
+A threat in terms of cybersecurity is something or someone that intends to cause harm toanother person or system. Furthermore, we can look at a threat as something that has the potential to cause malicious damage to a system, network, or person.
