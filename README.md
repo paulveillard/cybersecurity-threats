@@ -8,3 +8,4 @@ An ongoing & curated collection of awesome software best practices and technique
 ## `What is Threat`
 A threat in terms of cybersecurity is something or someone that intends to cause harm toanother person or system. Furthermore, we can look at a threat as something that has the potential to cause malicious damage to a system, network, or person.
 
+![threat](https://github.com/paulveillard/cybersecurity-threats/blob/main/Img/Vulnerability-Assessment-Idenitfying-Vulnerabilities.jpg)
