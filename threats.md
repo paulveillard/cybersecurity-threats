@@ -1,5 +1,5 @@
 # Threats
-[TBA]
+
 
 ![threats](https://github.com/paulveillard/cybersecurity-threats/blob/main/Img/Vulnerability-Assessment-Idenitfying-Vulnerabilities.jpg)
 
